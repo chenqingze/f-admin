@@ -1,0 +1,9 @@
+[submodule "frontend-angular"]
+	path = frontend-angular
+	url = git@github.com:chenqingze/f-admin-web-angular.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:chenqingze/f-admin-server.git
+[submodule "frontend-without-framework"]
+	path = frontend-without-framework
+	url = git@github.com:chenqingze/f-admin-web-without-framework.git
